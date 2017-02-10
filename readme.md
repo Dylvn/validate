@@ -8,7 +8,7 @@ Mot de passe : admin1234
 __Mon message :__
 
 Pourquoi je n'ai pas utilisé Bootstrap ?
-_J'avais d'apprendre une autre librairie, qui peut être facilement surcharger et avoir quelque difficulté suplémentaire_
+_J'avais envie d'apprendre une autre librairie, qui peut être facilement surchargé et avoir quelque difficulté suplémentaire_
 
 Pourquoi il n'y as qu'un seul compte ?
 _Je me suis un peu inspiré de wordpress et ici avoir un compte ne donner pas vraiment d'autre possibilité_
