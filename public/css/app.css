@@ -1,0 +1,83 @@
+body {
+    background: url('/img/background.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.pagination {
+    background-color: white;
+    opacity: 0.8;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+p {
+    font-variant: small-caps;
+}
+
+.message {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.product-content{
+    background-color: white;
+    box-shadow: 3px 3px 3px black;
+}
+
+p.lead{
+    background-color: white;
+    opacity: 0.8;    
+}
+
+.orbit {
+    background-color: white;
+    box-shadow: 3px 3px 3px black;
+    opacity: 0.9;
+}
+
+[data-slide="0"] {
+    background-color: darkcyan;
+    padding: 5px;
+}
+
+[data-slide="1"] {
+    background-color: darkmagenta;
+    padding: 5px;
+}
+
+[data-slide="2"] {
+    background-color: darkorange;
+    padding: 5px;
+}
+
+[data-slide="3"] {
+    background-color: darkgreen;
+    padding: 5px;
+}
+
+.orbit-bullets button.is-active {
+    background-color: yellowgreen;
+}
+
+.orbit-bullets {
+    
+}
+
+@media screen and (max-width: 640px) {
+  body {
+    background-image: url('/img/background-small3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  p {
+      background-color: white;
+      opacity: 0.8;
+  }
+
+  label {
+      background-color: white;
+      opacity: 0.9;      
+  }
+}
