@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-Nom de compte : admin@admin.fr
-mot de passe : admin1234
+Nom de compte : admin@admin.fr | 
+Mot de passe : admin1234
 
 # Filmosaure
 
